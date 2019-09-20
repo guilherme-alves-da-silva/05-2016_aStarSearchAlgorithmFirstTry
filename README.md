@@ -1,8 +1,7 @@
 # 05-2016_aStarSearchAlgorithmFirstTry
 
-
 ( From may 2016 )
- ---------------
+
    o
     o
         .--.
@@ -22,7 +21,7 @@ https://www.youtube.com/watch?v=T8mgXpW1_vc <!--A* pathfinding for beginners imp
 
 
 ( I was new in Java as well )
- ---------------------------
+
         o   ^__^
          o  (xx)\_______
             (__)\       )\/\
