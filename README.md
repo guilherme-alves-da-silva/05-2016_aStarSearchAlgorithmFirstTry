@@ -1,7 +1,7 @@
 # 05-2016_aStarSearchAlgorithmFirstTry
 
 
-( From may 2016 )
+ ( From may 2016 )
 
     o                                  ___-------___
      o                             _-~~             ~~-_
